@@ -11,7 +11,7 @@ The workshop will be held in conjunction with the [International Conference on C
 
 We recommend to register to the conference timely to avoid delays.
 
-<img src="https://eccv2024.ecva.net/static/core/img/eccv-navbar-logo.svg" alt="ECCV Logo" height="150px;">
+<img src="https://iccv.thecvf.com/static/core/img/iccv-navbar-logo.svg" alt="ICCV Logo" height="150px;">
 
 The workshop will be in Honolulu, HI (USA) at the **Honolulu Convention Center**.
 
