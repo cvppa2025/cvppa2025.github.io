@@ -8,22 +8,23 @@ main:
     url: /programme/
   - title: "Speakers"
     url: /speakers/
-  - title: "Challenges"
-    url: /challenges/
+  - title: "Challenge"
+    url: /challenge/
 
 sidebar:
   - title: "Home"
     url: "/"
   - title: "Organisers"
     url: /organisers/
-    children:
-      - title: "Workshop Organisers"
-        url: /organisers/#workshop-organisers
-      - title: "Challenge Organisers"
-        url: /organisers/#challenge-organisers
+    # children:
+    #   - title: "Workshop Organisers"
+    #     url: /organisers/#workshop-organisers
+    #   - title: "Challenge Organisers"
+    #     url: /organisers/#challenge-organisers
   - title: "Call for Papers"
     url: /cfp/
     children:
+
       - title: Important Dates
         url: /cfp/#important-dates
       - title: Authors Information
@@ -45,15 +46,16 @@ sidebar:
     #     url: /speakers/#michael-gomez-selvaraj
   # - title: "Proceedings"
   #   url: /proceedings/
-    children:
-      - title: Full papers
-        url: /proceedings/#full-papers
-      - title: Extended Abstracts
-        url: /proceedings/#extended-abstracts
-  - title: "Challenges"
-    url: /challenges/
-    children:
-      - title: Shape Completion and Reconstruction of Sweet Peppers
-        url: /challenges/#shape-completion-and-reconstruction-of-sweet-peppers-challenge
-      - title: Multi-object tracking
-        url: /challenges/#multi-object-tracking-of-sweet-peppers-challenge00477
+      # children:
+      #   - title: Full papers
+      #     url: /proceedings/#full-papers
+      #   - title: Extended Abstracts
+      #     url: /proceedings/#extended-abstracts
+
+  - title: "Challenge"
+    url: /challenge/
+    # children:
+    #   - title: Shape Completion and Reconstruction of Sweet Peppers
+    #     url: /challenges/#shape-completion-and-reconstruction-of-sweet-peppers-challenge
+    #   - title: Multi-object tracking
+    #     url: /challenges/#multi-object-tracking-of-sweet-peppers-challenge00477

@@ -1,7 +1,7 @@
 ---
 layout: single
-title: Challenges
-permalink: /challenges/
+title: Challenge
+permalink: /challenge/
 sidebar:
     nav: "sidebar"
 ---
