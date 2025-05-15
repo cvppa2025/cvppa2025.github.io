@@ -15,8 +15,6 @@ We recommend to register to the conference timely to avoid delays.
 
 The workshop will be in Honolulu, HI (USA) at the **Honolulu Convention Center**.
 
-# (<a href="/proceedings" target="_blank" class="btn btn--success btn--large">Accepted Papers & Extended Abstracts</a>)
-
 ## Previous Editions
 
 This workshop was previously known as CVPPP, Computer Vision Problems in Plant Phenotyping.
