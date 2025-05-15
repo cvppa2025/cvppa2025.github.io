@@ -16,12 +16,12 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "CVPPA 2024 Workshop"
+title                    : "CVPPA 2025 Workshop"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "9th Computer Vision in Plant Phenotyping and Agriculture"
+name                     : "10th Computer Vision in Plant Phenotyping and Agriculture"
 description              : ""
-url                      : "https://cvppa2024.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://cvppa2025.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -104,21 +104,21 @@ analytics:
 
 # Site Author
 author:
-  name             : "9th Computer Vision in Plant Phenotyping and Agriculture"
+  name             : "10th Computer Vision in Plant Phenotyping and Agriculture"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : #"I am an **amazing** person."
-  location         : "ECCV 2024"
+  location         : "ICCV 2025"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:cvppa24@email.com"
+      url: "mailto:cvppa25@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-brands fa-x-twitter"
-      url: "https://twitter.com/cvppa24"
+      # url: "https://twitter.com/cvppa24"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -134,7 +134,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-x-twitter"
-      url: "https://twitter.com/cvppa24"
+      # url: "https://twitter.com/cvppa24"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:

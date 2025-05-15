@@ -2,12 +2,12 @@
 main:
   - title: "Organisers"
     url: /organisers/
+  - title: "Call for Papers"
+    url: /cfp/
   - title: "Programme"
     url: /programme/
   - title: "Speakers"
     url: /speakers/
-  - title: "Proceedings"
-    url: /proceedings/
   - title: "Challenges"
     url: /challenges/
 
@@ -21,24 +21,6 @@ sidebar:
         url: /organisers/#workshop-organisers
       - title: "Challenge Organisers"
         url: /organisers/#challenge-organisers
-  - title: "Programme"
-    url: /programme/
-  - title: "Speakers"
-    url: /speakers/
-    children:
-      - title: Fiora Pirri
-        url: /speakers/#fiora-pirri
-      - title: Masha Popović
-        url: /speakers/#masha-popovi%C4%87
-      - title: Michael Gomez Selvaraj
-        url: /speakers/#michael-gomez-selvaraj
-  - title: "Proceedings"
-    url: /proceedings/
-    children:
-      - title: Full papers
-        url: /proceedings/#full-papers
-      - title: Extended Abstracts
-        url: /proceedings/#extended-abstracts
   - title: "Call for Papers"
     url: /cfp/
     children:
@@ -50,6 +32,24 @@ sidebar:
         url: /cfp/#submission-guidelines
       - title: Submission Policies
         url: /cfp/#submission-policies
+  - title: "Programme"
+    url: /programme/
+  - title: "Speakers"
+    url: /speakers/
+    # children:
+    #   - title: Fiora Pirri
+    #     url: /speakers/#fiora-pirri
+    #   - title: Masha Popović
+    #     url: /speakers/#masha-popovi%C4%87
+    #   - title: Michael Gomez Selvaraj
+    #     url: /speakers/#michael-gomez-selvaraj
+  # - title: "Proceedings"
+  #   url: /proceedings/
+    children:
+      - title: Full papers
+        url: /proceedings/#full-papers
+      - title: Extended Abstracts
+        url: /proceedings/#extended-abstracts
   - title: "Challenges"
     url: /challenges/
     children:
