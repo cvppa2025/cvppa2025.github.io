@@ -1,0 +1,59 @@
+# main links
+main:
+  - title: "Organisers"
+    url: /organisers/
+  - title: "Programme"
+    url: /programme/
+  - title: "Speakers"
+    url: /speakers/
+  - title: "Proceedings"
+    url: /proceedings/
+  - title: "Challenges"
+    url: /challenges/
+
+sidebar:
+  - title: "Home"
+    url: "/"
+  - title: "Organisers"
+    url: /organisers/
+    children:
+      - title: "Workshop Organisers"
+        url: /organisers/#workshop-organisers
+      - title: "Challenge Organisers"
+        url: /organisers/#challenge-organisers
+  - title: "Programme"
+    url: /programme/
+  - title: "Speakers"
+    url: /speakers/
+    children:
+      - title: Fiora Pirri
+        url: /speakers/#fiora-pirri
+      - title: Masha Popović
+        url: /speakers/#masha-popovi%C4%87
+      - title: Michael Gomez Selvaraj
+        url: /speakers/#michael-gomez-selvaraj
+  - title: "Proceedings"
+    url: /proceedings/
+    children:
+      - title: Full papers
+        url: /proceedings/#full-papers
+      - title: Extended Abstracts
+        url: /proceedings/#extended-abstracts
+  - title: "Call for Papers"
+    url: /cfp/
+    children:
+      - title: Important Dates
+        url: /cfp/#important-dates
+      - title: Authors Information
+        url: /cfp/#author-information
+      - title: Submission Guidelines
+        url: /cfp/#submission-guidelines
+      - title: Submission Policies
+        url: /cfp/#submission-policies
+  - title: "Challenges"
+    url: /challenges/
+    children:
+      - title: Shape Completion and Reconstruction of Sweet Peppers
+        url: /challenges/#shape-completion-and-reconstruction-of-sweet-peppers-challenge
+      - title: Multi-object tracking
+        url: /challenges/#multi-object-tracking-of-sweet-peppers-challenge00477
