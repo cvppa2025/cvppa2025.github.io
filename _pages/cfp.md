@@ -25,9 +25,9 @@ Submission will be done on CMT: TBA.
 ## Important Dates
 
 |Dates       |       |      
-|Submission due (full paper or extended abstract) | [13 June 2025 23:59 AOE](https://www.timeanddate.com/worldclock/converter.html?iso=20240614T115900&p1=tz_aoe&p2=137&p3=155&p4=165&p5=136&p6=215&p7=26&p8=176&p9=33&p10=248&p11=240) |
-|Deadline for submitting reviews (Reviewers only) | 25 June 2024 23:59 AOE | 
-|Decision notification to authors | 27 June 2025 | 
+|Submission due (full paper or extended abstract) | [22 June 2025 23:59 AOE](https://www.timeanddate.com/worldclock/converter.html?iso=20240623T115900&p1=tz_aoe&p2=137&p3=155&p4=165&p5=136&p6=215&p7=26&p8=176&p9=33&p10=248&p11=240) |
+|Deadline for submitting reviews (Reviewers only) | 7 July 2025 23:59 AOE | 
+|Decision notification to authors | 11 July 2025 | 
 
 ## Papers and extended abstracts
 
