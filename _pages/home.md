@@ -15,6 +15,8 @@ We recommend to register to the conference timely to avoid delays.
 
 The workshop will be in Honolulu, HI (USA) at the **Honolulu Convention Center**.
 
+The [Microsoft CMT service](https://cmt3.research.microsoft.com/) is used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
+
 ## Previous Editions
 
 This workshop was previously known as CVPPP, Computer Vision Problems in Plant Phenotyping.
