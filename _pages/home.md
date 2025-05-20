@@ -11,6 +11,8 @@ The workshop will be held in conjunction with the [International Conference on C
 
 We recommend to register to the conference timely to avoid delays.
 
+This year’s featured Challenge is the **Global Wheat Full SemSeg Competition**, and *two* travel awards are available for attending CVPPA, for more details see [Challenge page](/challenge/).
+
 <img src="https://iccv.thecvf.com/static/core/img/iccv-navbar-logo.svg" alt="ICCV Logo" height="150px;">
 
 The workshop will be in Honolulu, HI (USA) at the **Honolulu Convention Center**.
