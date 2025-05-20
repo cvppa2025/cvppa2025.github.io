@@ -17,6 +17,13 @@ The **Global Wheat Full Semantic Segmentation (GWFSS)** dataset comprises images
 
 By participating in this competition, researchers and practitioners have the opportunity to develop cutting-edge models that can accurately segment wheat organs under diverse conditions. The outcomes of this challenge have the potential to revolutionize digital phenotyping in agriculture by enabling more precise monitoring of crop health and growth. Ultimately, these advancements can contribute to global efforts in **improving food security and fostering sustainable agricultural practices.** This structure highlights the significance of the task while connecting it to broader goals like food security and sustainability. It also emphasizes the novelty of transitioning from detection to segmentation and underscores the importance of the new dataset.
 
+Two travel prizes will be awarded for the GWFSS Competition to attend the workshop: 
+
+1. Top Performance Award.
+2. Innovation Award.
+
+The travel award will consist of reimbursement of flight, accommodation, and conference registration fees (up to a maximum of $4,000 USD) for presenting the competition solution at CVPPA. For more details please [click here](https://www.codabench.org/competitions/5905/)!
+
 <a href="https://www.codabench.org/competitions/5905/" target="_blank" class="btn btn--success btn--large">Participate Now!</a>
 
 Paper contribution should be submitted in accordance with the [Call for Paper](/cfp)
