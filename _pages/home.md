@@ -17,6 +17,8 @@ This year’s featured Challenge is the **Global Wheat Full SemSeg Competition**
 
 The workshop will be in Honolulu, HI (USA) at the **Honolulu Convention Center**.
 
+<a href="https://cmt3.research.microsoft.com/CVPPA2025" target="_blank" class="btn btn--success btn--large">Paper Submission on CMT</a>
+
 The [Microsoft CMT service](https://cmt3.research.microsoft.com/) is used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.
 
 ## Previous Editions
