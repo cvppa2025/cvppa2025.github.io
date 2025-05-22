@@ -20,7 +20,7 @@ Specific topics of interest include, but are not limited to, the following:
 * image data sets defining plant phenotyping or agricultural tasks, complete with annotations if appropriate, accompanied with benchmark methods if possible, and suitable evaluation methods; and
 * challenge contributions - [click here for more information regarding the challenges](/challenges/)
 
-Submission will be done on CMT: TBA.
+[Submission will be done on CMT.](https://cmt3.research.microsoft.com/CVPPA2025)
 
 ## Important Dates
 
@@ -36,9 +36,9 @@ Accepted full papers will be included in the ICCV Workshop Proceedings. Accepted
 
 ## Author Information
 
-Authors should comply with ICCV 2025 [submission guidelines](https://iccv.thecvf.com/Conferences/2025/AuthorGuidelines) to format their full paper, extended abstract, or challenge technical report. Submission are handled via CMT. The peer-review process is double blind, as usual, in order to ensure unbiased reviews and highest paper quality.
+Authors should comply with ICCV 2025 [submission guidelines](https://iccv.thecvf.com/Conferences/2025/AuthorGuidelines) to format their full paper, extended abstract, or challenge technical report. Submission are handled via [CMT](https://cmt3.research.microsoft.com/CVPPA2025). The peer-review process is double blind, as usual, in order to ensure unbiased reviews and highest paper quality.
 
-Paper registration is performed by registering as a user with CMT and entering a paper title and abstract. This will result in the allocation of a `paper ID`, which indicates registration is completed and should be used in preparation of the review copy. You will be able to make edits and upload new paper drafts until the final deadline. Submitted papers should be prepared according to the published specification for formatting and style. Please be sure to read both the formatting instructions and policies before submission. Please refer to [ICCV 2025 FAQ](https://iccv.thecvf.com/Conferences/2025/AuthorGuidelines#AuthorFAQs) for common questions.
+Paper registration is performed by registering as a user with [CMT](https://cmt3.research.microsoft.com/CVPPA2025) and entering a paper title and abstract. This will result in the allocation of a `paper ID`, which indicates registration is completed and should be used in preparation of the review copy. You will be able to make edits and upload new paper drafts until the final deadline. Submitted papers should be prepared according to the published specification for formatting and style. Please be sure to read both the formatting instructions and policies before submission. Please refer to [ICCV 2025 FAQ](https://iccv.thecvf.com/Conferences/2025/AuthorGuidelines#AuthorFAQs) for common questions.
 
 ## Submission Guidelines
 
@@ -70,7 +70,7 @@ If there are papers that may appear to violate any of these conditions, it is th
 
 ### Camera Ready Copy
 
-Camera-ready submission for accepted papers will be submitted on CMT. A transfer of copyright to IEEE will be required for camera-ready submission. Each published paper must have at least one author registered for the workshop under an AUTHOR registration (virtual Registrations will not cover paper submissions). Papers for which we have no registered authors will be removed from the workshop.
+Camera-ready submission for accepted papers will be submitted on [CMT](https://cmt3.research.microsoft.com/CVPPA2025). A transfer of copyright to IEEE will be required for camera-ready submission. Each published paper must have at least one author registered for the workshop under an AUTHOR registration (virtual Registrations will not cover paper submissions). Papers for which we have no registered authors will be removed from the workshop.
 
 For each accepted full paper authors should upload:
 * final camera-ready paper (in PDF format),
