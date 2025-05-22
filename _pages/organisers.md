@@ -20,7 +20,7 @@ sidebar:
 
 | Zane Hartley | School of Computer Science, University of Nottingham, UK | [Email](mailto:zane.hartley@nottingham.ac.uk) |
 
-## COmmunications Chair
+## Communications Chair
 
 | [Valerio Giuffrida](http://www.valeriogiuffrida.academy) | School of Computer Science, University of Nottingham, UK  | [Email](mailto:valerio.giuffrida@nottingham.ac.uk) |
 
