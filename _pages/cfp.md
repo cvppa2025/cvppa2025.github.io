@@ -42,7 +42,7 @@ Paper registration is performed by registering as a user with [CMT](https://cmt3
 
 ## Submission Guidelines
 
-Full papers, extended abstracts, and challenges technical reports should be submitted using the template for ECCV 2024. Papers submitted for review must be anonymous in order to enable double-blind review, and instead include the `paper ID` as allocated by CMT upon registration of the paper. The addition of line numbers (automatic in the LaTeX template) should be included, in order to facilitate the review process.
+Full papers, extended abstracts, and challenges technical reports should be submitted using the template for ICCV 2025. Papers submitted for review must be anonymous in order to enable double-blind review, and instead include the `paper ID` as allocated by CMT upon registration of the paper. The addition of line numbers (automatic in the LaTeX template) should be included, in order to facilitate the review process.
 
 ### Full Papers
 Full paper submissions must be **longer than 4 pages and up to 8 pages**, including figures and tables, but not including references. Additional pages containing only cited references are allowed. Please download the [ICCV 2025 Author Kit](https://media.eventhosts.cc/Conferences/ICCV2025/ICCV2025-Author-Kit-Feb.zip) for detailed formatting instructions.
