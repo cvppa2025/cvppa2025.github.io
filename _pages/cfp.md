@@ -24,9 +24,10 @@ Specific topics of interest include, but are not limited to, the following:
 
 ## Important Dates
 
+**Deadline for Extended Abstract has been pushed back!**
+
 |Dates       |       |      
-|Submission due for full paper | [22 June 2025 23:59 AOE](https://www.timeanddate.com/worldclock/converter.html?
-iso=20240623T115900&p1=tz_aoe&p2=137&p3=155&p4=165&p5=136&p6=215&p7=26&p8=176&p9=33&p10=248&p11=240) |
+|Submission due for full paper | [22 June 2025 23:59 AOE](https://www.timeanddate.com/worldclock/converter.html?iso=20240623T115900&p1=tz_aoe&p2=137&p3=155&p4=165&p5=136&p6=215&p7=26&p8=176&p9=33&p10=248&p11=240) |
 |Submission due for extended abstract | ~~22 June 2025 23:59 AOE~~ 31 July 2025 23:59 AOE | 
 |Deadline for submitting reviews (Reviewers only) | 7 July 2025 23:59 AOE | 
 |Decision notification to authors | 11 July 2025 | 
