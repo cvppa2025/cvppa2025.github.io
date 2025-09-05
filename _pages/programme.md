@@ -17,8 +17,8 @@ The workshop will be held on the 20th of October at 13:00 HST.
 
 |From|To| Session 2|
 |--|--|--|
-|14:00|14:20| Papers Session #1 (4mins per presentation ) |
-|14:20|14:40| Papers Session #2 (4mins per presentation ) |
+|14:00|14:20| Papers Session #1 (4mins per presentation) |
+|14:20|14:40| Papers Session #2 (4mins per presentation) |
 |14:40|16:00| Poster Session (Coffee Break starts at 15:00) |
 
 |From|To| Session 3|
