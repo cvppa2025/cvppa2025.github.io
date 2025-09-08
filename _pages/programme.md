@@ -24,7 +24,7 @@ The workshop will be held on the 20th of October at 13:00 HST.
 |From|To| Session 3|
 |--|--|--|
 |16:00|16:40| Invited Speaker – Wei Guo |
-|16:40|16:55| Competition Session (overview) |
+|16:40|16:55| Competition Session |
 |16:55|17:00| Concluding remarks |
 ||17:00| Adjourn |
 
