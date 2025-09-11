@@ -11,7 +11,7 @@ The workshop will be held on the 20th of October at 13:00 HST.
 |From|To| Session 1|
 |--|--|--|
 |13:00|13:05| Welcoming message and short introduction|
-|13:05|13:45| Invited Speaker – Amit Dhiman |
+|13:05|13:45| Invited Speaker – Girish Chowdhury |
 |13:45|13:50| Lightning talks for Extended Abstracts (1min per talk) |
 |13:50|14:00| Short Break |
 
