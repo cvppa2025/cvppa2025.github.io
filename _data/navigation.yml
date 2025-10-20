@@ -8,6 +8,8 @@ main:
     url: /programme/
   - title: "Speakers"
     url: /speakers/
+  - title: "Proceedings"
+    url: /proceedings/
   - title: "Challenge"
     url: /challenge/
 
@@ -44,13 +46,13 @@ sidebar:
     #     url: /speakers/#masha-popovi%C4%87
     #   - title: Michael Gomez Selvaraj
     #     url: /speakers/#michael-gomez-selvaraj
-  # - title: "Proceedings"
-  #   url: /proceedings/
-      # children:
-      #   - title: Full papers
-      #     url: /proceedings/#full-papers
-      #   - title: Extended Abstracts
-      #     url: /proceedings/#extended-abstracts
+  - title: "Proceedings"
+    url: /proceedings/
+      children:
+        - title: Full papers
+          url: /proceedings/#full-papers
+        - title: Extended Abstracts
+          url: /proceedings/#extended-abstracts
 
   - title: "Challenge"
     url: /challenge/
