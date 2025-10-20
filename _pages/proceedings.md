@@ -1,4 +1,4 @@
-<img width="65" height="21" alt="image" src="https://github.com/user-attachments/assets/9b907e3f-6bc2-4509-b258-206c9b9e07c4" />---
+---
 layout: single
 permalink: /proceedings/
 title: "Proceedings"
