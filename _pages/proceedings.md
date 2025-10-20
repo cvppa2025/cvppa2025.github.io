@@ -1,4 +1,4 @@
----
+<img width="65" height="21" alt="image" src="https://github.com/user-attachments/assets/9b907e3f-6bc2-4509-b258-206c9b9e07c4" />---
 layout: single
 permalink: /proceedings/
 title: "Proceedings"
@@ -12,142 +12,98 @@ sidebar:
 ## Full Papers
 ---
 
-**Wild Berry image dataset collected in Finnish forests and peatlands using drones**\
-Luigi Riz (Fondazione Bruno Kessler)*; Sergio Povoli (Fondazione Bruno Kessler); Andrea Caraffa (Fondazione Bruno Kessler); Davide Boscaini (Fondazione Bruno Kessler); Mohamed Lamine Mekhalfi (Fondazione Bruno Kessler); Paul Chippendale (Fondazione Bruno Kessler); Marjut Turtiainen (Arctic Flavours Association); Birgitta Partanen (Arctic Flavours Association); Laura Smith Ballester (Universitat Politecnica de Valencia); Francisco Blanes Noguera (Universitat Politecnica de Valencia); Alessio Franchi (GemmoAI); Elisa Castelli (GemmoAI); Giacomo Piccinini (GemmoAI); Luca Marchesotti (GemmoAI); Micael Santos Couceiro (Ingeniarius); Fabio Poiesi (Fondazione Bruno Kessler), 2024.
+**PlantDreamer: Achieving Realistic 3D Plant Models with Diffusion-Guided Gaussian Splatting**\
+Zane Hartley (University of Nottingham)*; Lewis Stuart (University of Nottingham); Andrew French (University of Nottingham); Michael Pound (University of Nottingham), 2025.
 
 ---
 
-**Soybean pod and seed counting in both outdoor fields and indoor laboratories using unions of deep neural networks**\
-Tianyou Jiang (Shandong Agricultural University); Mingshun  Shao (Shandong Agricultural University); Tianyi Zhang (Shandong Agricultural University); Xiaoyu Liu  (Shandong Agricultural University); Qun Yu (Shandong Agricultural University)*, 2024.
+**AgMIC: Agricultural Masked Image Consistency for Cross-Domain Segmentation**\
+Muhib Ullah (University of Regina)*; Nisar Ali (University of Regina); Numair Nadeem (University of Regina); Abdul Bais (University of Regina), 2025
 
 ---
 
-**A Framework for Enhanced Decision Support in Digital Agriculture Using Explainable Machine Learning**\
-Ahmed Emam (University of Bonn)*; Mohamed Mohamed Farag (The University of Bonn); Jana Kierdorf (University of Bonn); Lasse Klingbeil (University of Bonn); Uwe Rascher ( Forschungszentrum Jülich); Ribana Roscher (Forschungszentrum Jülich), 2024.
+**Dynamic Monitoring of Crop Canopies Using Time-Series Point Clouds: Insights into Phenotypic Variation and Leaf-Level Photosynthetic Performance**\
+Jiaren Zhou (China Agricultural University); Mengqi Zhang (China Agricultural University); Shulin Sun (China Agricultural University); Man Zhang (China Agricultural University); Minjuan Wang (China Agricultural University)*, 2025.
 
 ---
 
-**Lincoln's Annotated Spatio-Temporal Strawberry Dataset (LAST-Straw)**\
-Katherine M.F. James (University of Lincoln); Karoline Heiwolt (University of Lincoln); Daniel Sargent (NIAB); Grzegorz Cielniak (University of Lincoln)*, 2024.
+**First Place Solution to the MLCAS 2025 GWFSS Challenge: The Devil is in the Detail and Minority**\
+Songliang Cao (Huazhong University of Science and Technology); Tianqi Hu (Huazhong University of Science and Technology); Hao Lu (Huazhong University of Science and Technology)*, 2025.
 
 ---
 
-**3D Phenotyping of Canopy Occupation Volume as a Major Predictor for Canopy Photosynthesis in Rice (Oryza sativa L.)**\
-Jiaren Zhou (China Agricultural University); Man Zhang (China Agricultural University); Mengqi Zhang (China Agricultural University); Minjuan Wang (China Agricultural University)*, 2024.
+**High-Throughput Estimation of Photosynthetic Phenotypic Parameters Using Hyperspectral Data**\
+Mengqi Zhang (China Agricultural University); Jiaren Zhou (China Agricultural University); Man Zhang (China Agricultural University); Minjuan Wang (China Agricultural University)*, 2025.
 
 ---
 
-**Retrieval of sun-induced plant fluorescence in the O2-A absorption band from DESIS imagery**\
-Jim Buffat (Forschungszentrum Jülich)*; Miguel Pato (German Aerospace Center (DLR)); Kevin Alonso (Starion Group c/o European Space Agency (ESA)); Stefan Auer (German Aerospace Center (DLR)); Emiliano Carmona (German Aerospace Center (DLR)); Stefan Maier (German Aerospace Center (DLR)); Rupert Müller (German Aerospace Center (DLR)); Patrick Rademske (Forschungszentrum Jülich); Uwe Rascher (Forschungszentrum Jülich); Hanno Scharr (Forschungszentrum Juelich), 2024.
+**Comparative Analysis of Image-Based Deep Learning and Genomic Models for Yield and Protein Content Prediction in Winter Wheat**\
+Xiaoran Chen (SDSC); Paraskevi Nousi (SDSC)*; Mike Boss (ETHZ); Michele Volpi (SDSC); Lukas Roth (ETHZ), 2025.
 
 ---
 
-**Unsupervised Tomato Split Anomaly Detection using Hyperspectral Imaging and Variational Autoencoders**\
-Mahmoud Abdulsalam (University of Lincoln)*; Usman Zahidi (University of Lincoln); Bradley Hurst (University of Lincoln); Simon Pearson (University of Lincoln); Grzegorz Cielniak (University of Lincoln); James M Brown (University of Lincoln), 2024.
+**A Case for the Use of Chroma Cartesian Colour Representations for Image Classification on Plant-Based Domains**\
+Alexis Payne (University of Nottingham)*; Gail Hopkins (University of Nottingham); Shreyank Gowda (University of Nottingham); Isaac Triguero (University of Granada); Michael Pound (University of Nottingham), 2025.
+
 
 ---
 
-**KAN You See It? KANs and Sentinel for Effective and Explainable Crop Field Segmentation**\
-Daniele Rege Cambrin (Politecnico di Torino)*; Eleonora Poeta (Politecnico di Torino); Eliana Pastor (Politecnico di Torino); Tania Cerquitelli (Dipartimento di Automatica e Informatica Politecnico di Torino); Elena Baralis (Politecnico di Torino); Paolo Garza (Politecnico di Torino), 2024.
+**Decoder-aware Self-Supervised Continual Pretraining and Uncertainty-Guided Pseudo-Labeling for Wheat Organ Segmentation**\
+Tapotosh Ghosh (University of Calgary)*; Md Jaber Al Nahian (University of Calgary); Farnaz Sheikhi (University of Calgary); Farhad Maleki (University of Calgary), 2025.
 
 ---
 
-**RoWeeder: Unsupervised Weed Mapping through Crop-Row Detection**\
-Pasquale De Marinis (University of Bari Aldo Moro)*; Gennaro Vessio (University of Bari Aldo Moro); Giovanna Castellano (University of Bari Aldo Moro, Italy), 2024.
+**Modeling Time-Lapse Trajectories to Characterize Cranberry Growth**\
+Ronan John (Rutgers University - New Brunswick); Anis Chihoub (Rutgers University - New Brunswick)*; Ryan Meegan (Rutgers University - New Brunswick); Gina Sidelli (Rutgers University - New Brunswick); Jeffrey Neyhart (Rutgers University - New Brunswick); Peter Oudemans (Rutgers University - New Brunswick); Kristin Dana (Rutgers University - New Brunswick), 2025.
 
 ---
 
-**Consolidation of symbolic instances using sensor data via tracklet merging for long-term monitoring of crops**\
-Mark Niemeyer (German Research Center for Artificial Intelligence)*; Joachim Hertzberg (Osnabrück University); Grzegorz Cielniak (University of Lincoln), 2024.
+**Improving Lightweight Weed Detection via Knowledge Distillation**\
+Ahmet Oğuz  Saltık (University of Hohenheim)*; Max Voigt (University of Hohenheim); Sourav Modak (University of Hohenheim); Mike Beckworth (University of Hohenheim); Anthony Stein (University of Hohenheim), 2025.
 
 ---
 
-**Automated Generation of Accurate, Compact and Focused Crop and Weed Segmentation Models**\
-Soma  Dasgupta (Tata Consultancy Services Limited)*; Swarnava Dey (TCS Research, Tata Consultancy Services Ltd.), 2024.
+**Multimodal fusion of X-ray transmission and dark field imaging for apple internal disorders detection**\
+Jiaqi He (KU Leuven)*; Astrid Tempelaere (KU Leuven); Janne Vignero (KU Leuven); Pieter Verboven (KU Leuven); Bart Nicolai (KU Leuven), 2025.
 
 ---
 
-**Comparative Analysis of YOLOv9, YOLOv10 and RT-DETR for Real-Time Weed Detection**\
-Ahmet Oğuz  Saltık (University of Hohenheim)*; Alicia Allmendinger (University of Hohenheim); Anthony Stein (University of Hohenheim), 2024.
+**WeedSense: Multi-Task Learning for Weed Segmentation, Height Estimation, and Growth Stage Classification**\
+Toqi Tahamid Sarker (Southern Illinois University Carbondale)*;  Khaled Ahmed (Southern Illinois University Carbondale); Taminul Islam (Southern Illinois University Carbondale); Cristiana Bernardi Rankrape (Southern Illinois University Carbondale); Karla Gage (Southern Illinois University Carbondale), 2025.
 
 ---
 
-**Towards Auto-Generated Ground Truth for Evaluation of Perception Systems in Agriculture**\
-Christoph Krause (German Research Center for Artificial Intelligence)*; Mark Niemeyer (German Research Center for Artificial Intelligence); Janosch Bajorath (German Research Center for Artificial Intelligence); Naeem Iqbal (German Research Center for Artificial Intelligence); Joachim Hertzberg (Osnabrueck University), 2024.
-
----
-
-**AgriBench: A Hierarchical Agriculture Benchmark for Multimodal Large Language Models**\
-Yutong Zhou (Leibniz Centre for Agricultural Landscape Research (ZALF))*, Masahiro Roy (Leibniz Centre for Agricultural Landscape Research (ZALF) & Brandenburg University of Technology Cottbus–Senftenberg), 2024.
-
----
-
-**Deep Learning Based Growth Modeling of Plant Phenotypes**\
-Renke Hohl (University of Applied Sciences Mittelhessen); Moritz Schauer (Technische Hochschule Mittelhessen)*; Seyed Eghbal Ghobadi (THM), 2024.
-
----
-
-**A simple approach to pavement cell segmentation**\
-Rostislav Shepel (University of Nottingham)*; Andres Romanowski (Wageningen University & Research); Mario Valerio Giuffrida (University of Nottingham), 2024.
-
----
-
-**Enhancing weed detection performance by means of GenAI-based image augmentation**\
-Sourav Modak (University of Hohenheim)*; Anthony Stein (University of Hohenheim), 2024.
-
----
-
-**SynthSet: Generative Diffusion Model for Semantic Segmentation in Precision Agriculture**\
-Andrew Heschl (University of Calgary)*; Mauricio C Murillo (University of Calgary); Keyhan Najafian (University of Saskatchewan); Farhad Maleki (McGill University), 2024.
-
----
-
-**Robust UDA for Crop and Weed Segmentation: Multi-Scale Attention and Style-Adaptive Techniques**\
-Numair Nadeem (University of Regina)*; Muhammad Hamza Asad (University of Regina); Abdul Bais (University of Regina), 2024.
-
----
-
-**Ordinal-Meta Learning for Fine-grained Fruit Quality Prediction**\
-Aayush Mishra (TCS Research)*; Manasi Patwardhan (TCS Research); Parijat Deshpande (TCS Research); Beena Rai (Tata Consultancy Services Limited), 2024.
-
----
-
-**Beyond Annotations: Efficient Wheat Head Segmentation Using L-Systems, Game Engines, and Student-Teacher Models**\
-Hosein Beheshtifard (University of Calgary)*; Elijah Mickelson (University of Calgary); Keyhan Najafian (University of Saskatchewan); Farhad Maleki (McGill University), 2024.
-
----
-
-**Exploiting Boundary Loss for the Hierarchical Panoptic Segmentation of Plants and Leaves**\
-Madeleine Darbyshire (University of Lincoln)*; Simon Parsons (University of Lincoln); Elizabeth Sklar (University of Lincoln), 2024.
-
----
 
 ## Extended Abstracts
 ---
 
-**Generating High-Fidelity 3D Models of Individual Plants from Handheld Video Recordings**\
-Constanza Andrea Molina Catricheo (University of Münster)*; Dominik Drees (University of Münster); Pierre Ouvrard (Swedish University of Agricultural Sciences); Devis Tuia (EPFL); Fabio Remondino (Fondazione Bruno Kessler); Adrien Sicard (Swedish University of Agricultural Sciences); Benjamin Risse (University of Münster) , 2024. [[PDF]](/assets/pdf/16.pdf)
+**Pseudo-Label Refinement for Robust Wheat Head Segmentation via Two-Stage Hybrid Training**\
+Jiahao Jiang (Tongji University); Zhangrui Yang (Tongji University)*; Xuanhan Wang (Tongji University); Jingkuan Song (Tongji University), 2025. [[PDF]](/assets/ExtendedAbstracts/4.pdf)
 
 ---
 
-**PhenoGPT: Towards Language Interaction with Vision Models for Plant Phenotyping**\
-Feng Chen (University of Edinburgh)*; Sotirios Tsaftaris (The University of Edinburgh); Mario Valerio Giuffrida (University of Nottingham), 2024. [[PDF]](/assets/pdf/17.pdf)
+**SPROUTS: An Integrated Desktop Application for High-Throughput Root Phenotyping**\
+Kinjalk Parth (University of Illinois Urbana Champaign)*; Sebastian Quintela (University of Illinois Urbana Champaign); Andrew Leakey (University of Illinois Urbana Champaign), 2025. [[PDF]](/assets/ExtendedAbstracts/7.pdf)
 
 ---
 
-**Prompt Engineering on a Foundation Model to Segment Symptomatic Arabidopsis Thaliana**\
-Félicia Maviane-Macia (INRAe); Nemo Peeters (INRAe); Sabine Wiedemann (INRAe); David ROUSSEAU (Université d'Angers)*, 2024. [[PDF]](/assets/pdf/18.pdf)
+**CROP-ZERO – Contrastive Recognition Of Plant diseases with Zero-shot Optimization**\
+János Horváth (Purdue University)*, 2025. [[PDF]](/assets/ExtendedAbstracts/9.pdf)
 
 ---
 
-**Leveraging on Foundation Deep Neural Models for Individual Apple Tree Segmentation in Dense Orchards via Prompt Engineering in RGB Images**\
-Herearii Metuarea (Université d'Angers); Frederic Didelot (INRAe); Kevin  Guerif (INRAe); François Laurens (INRAe); Ludovic Bervas (INRAe); Pejman Rasti (University of Angers); Helin Dutagaci (Eskişehir Osmangazi Universiy); David ROUSSEAU (Université d'Angers)*, 2024. [[PDF]](/assets/pdf/19.pdf)
-
+**PlantFusion-1D2D: Leaf Area Index Estimation of Multimodal Deep Learning Framework under ComplexWeather Conditions**\
+Shulin Sun, Man Zhang, Hanxu Wang, Jiaren Zhou, Han Li, Ruicheng Qiu, Minjuan Wang. Key Lab of Smart Agriculture Systems, Ministry of Education, College of Information and Electrical Engineering, China Agricultural University, Beijing, China. 2025. [[PDF]](/assets/ExtendedAbstracts/11.pdf)
 
 ---
 
-**CISSS-Es: Curriculum-Including Semi-Supervised Sub-Ensembles for Plant Phenotyping**\
-Nicolas Mandel (Universität zu Lübeck)*; Sebastian Otte (University of Lübeck); Pirunthan Keerthinathan (Queensland University of Technology); Lihong  Zheng (Charles Sturt University Australia); Felipe Gonzalez (Queensland University of Technology); Jane Kelly (Charles Sturt University), 2024. [[PDF]](/assets/pdf/26.pdf)
+**RootSAM: Adapting SAM2.1 for Root Segmentation in Minirhizotron Imagery**\
+"Kinjalk Parth (University of Illinois Urbana Champaign)*; Sebastian Quintela (University of Illinois Urbana Champaign);  Andrew Leakey (University of Illinois Urbana Champaign); Sam Walker (University of Illinois Urbana Champaign); Nadia  Shakoor (Donald Danforth Plant Science Center), 2025. [[PDF]](/assets/ExtendedAbstracts/19.pdf)
+
+---
+
+**NeuraLeaf: Neural Parametric Leaf Models with Shape and Deformation Disentanglement**\
+Yang Yang (The Univerisity of Osaka)*; Dongni Mao (The Univerisity of Osaka); Hiroaki Santo (The Univerisity of Osaka); Yasuyuki Matsushita (Microsoft Research Asia - Tokyo); Fumio Okura (The Univerisity of Osaka), 2025. [[PDF]](/assets/ExtendedAbstracts/23.pdf)
 
 ---
 
